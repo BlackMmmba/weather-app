@@ -1,0 +1,45 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+body{
+    color: #333333;
+    font-family: arial;
+    max-width: 650px;
+    margin: 0px auto;
+    padding: 0 16px;
+}
+footer{
+    color:#888888;
+    border-top:1px solid #eeeeee ;
+    position: absolute;
+    top:90%;
+}
+header{
+    margin-top:16px;
+    margin-bottom:48px;
+}
+
+header a{
+    margin:0px 10px;
+    color:#aa88ee;
+    text-decoration: none;
+}
+#result{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 40%;
+}
+button{
+    height: 30px;
+    width:60px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+input{
+    height: 30px;
+    box-shadow: #333333;
+    font-size:20px ;
+}
